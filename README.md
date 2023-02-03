@@ -1,5 +1,5 @@
 <h1 align="center">Hey! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"
-        height="25px">
+        height="30px">
     I'm Ruchira Bogahawatta
 </h1>
 <br>
