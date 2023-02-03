@@ -3,12 +3,12 @@
     I'm Ruchira Bogahawatta
 </h1>
 <br>
-<div align="left">
+<p align="left">
     💻 A Passionate Full Stack Developer<br>
     🎓 Following BSc. in Information Systems at UCSC<br>
     💡 Currently working on improving my Node Js and React Js skills<br>
-    📫 How to reach me: **ruchira.bogahawatta@gmail.com**<br>
-</div>
+    📫 How to reach me: ruchira.bogahawatta@gmail.com<br>
+</p>
 <hr>
 
 <h3 align="left">Tech Stack:</h3>
