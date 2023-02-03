@@ -1,4 +1,4 @@
-<h1 align="center">Hey! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"
+<h1 align="center">Hey! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"
         height="30px">
     I'm Ruchira Bogahawatta
 </h1>
