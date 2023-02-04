@@ -36,7 +36,7 @@
             height="40" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git"
             width="40" height="40" /></a></p>
-<h3 align="left">🤝🏻 &nbsp; Connect with me:</h3>
+<h3 align="left">🤝🏻 Connect with me:</h3>
 <div align="left">
     <a href="https://www.linkedin.com/in/ruchira-bogahawatta"><img
             src="https://img.shields.io/badge/-Ruchira%20Bogahawatta-0077B5?style=flat&logo=Linkedin&logoColor=white" /></a>
