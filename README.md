@@ -34,9 +34,13 @@
             width="40" height="40" /> </a>
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git"
-            width="40" height="40" /></a></p>
-            <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+            width="40" height="40" /></a>
+  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
             <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+
+
+</p>
+          
 <h3 align="left">🤝🏻 Connect with me:</h3>
 <div align="left">
     <a href="https://www.linkedin.com/in/ruchira-bogahawatta"><img
