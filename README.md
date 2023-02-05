@@ -31,9 +31,8 @@
             alt="mysql" width="40" height="40" />
     </a> <a href="https://www.php.net" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php"
-            width="40" height="40" /> </a><a href="https://www.canva.com/" target="_blank" rel="noreferrer">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" alt="Canva" width="40"
-            height="40" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+            width="40" height="40" /> </a>
+        <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git"
             width="40" height="40" /></a></p>
 <h3 align="left">🤝🏻 Connect with me:</h3>
