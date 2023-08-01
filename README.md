@@ -6,7 +6,7 @@
 <p align="left">
     💻 A Passionate Full Stack Developer<br>
     🎓 Following BSc. in Information Systems at UCSC<br>
-    💡 Currently working on improving my Node Js and React Js skills<br>
+    💡 Currently working on learning MERN stack, Flutter and .NET <br>
     📫 How to reach me: <b>ruchira.bogahawatta@gmail.com </b><br>
 </p>
 <hr>
