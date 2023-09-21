@@ -8,6 +8,7 @@
     🎓 Following BSc(Hons) in Information Systems at UCSC<br>
     💡 Currently working on learning MERN stack, Flutter and .NET <br>
     📫 Contact Information: <b>ruchira.bogahawatta@gmail.com </b><br>
+        🌐 Visit My portfolio site : https://ruchira-bogahawatta.github.io/portfolio/<br>
 </p>
 <hr>
 
