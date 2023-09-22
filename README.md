@@ -59,7 +59,7 @@
         
 </p>
           
-<h3 align="left">🤝🏻 Socials:</h3>
+<h3 align="left">Socials:</h3>
 <div align="left">
     <a href="https://www.linkedin.com/in/ruchira-bogahawatta"><img
             src="https://img.shields.io/badge/-Ruchira%20Bogahawatta-0077B5?style=flat&logo=Linkedin&logoColor=white" /></a>
