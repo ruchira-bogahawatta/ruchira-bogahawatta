@@ -4,11 +4,11 @@
 </h1>
 <br>
 <p align="left">
-    💻 A Passionate Full Stack Developer<br>
-    🎓 Following BSc(Hons) in Information Systems at UCSC<br>
-    💡 Currently working on learning MERN stack, Flutter and .NET <br>
+    💻 I have a strong passion for Full Stack Development. <br>
+    🎓 Following BSc(Hons) in Information Systems at UCSC.<br>
+    💡 Currently working on learning MERN stack, Java and .NET <br>
     📫 Contact Information: <b>ruchira.bogahawatta@gmail.com </b><br>
-        🌐 Visit My portfolio site : https://ruchira-bogahawatta.github.io/portfolio/<br>
+    🌐 Visit My portfolio site : https://ruchira-bogahawatta.github.io/portfolio/<br>
 </p>
 <hr>
 
