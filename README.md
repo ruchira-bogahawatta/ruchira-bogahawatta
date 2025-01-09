@@ -6,7 +6,7 @@
 <p align="left">
     💻 I have a strong passion for Full Stack Development. <br>
     🎓 Following BSc(Hons) in Information Systems at UCSC.<br>
-    💡 Currently working on learning MERN stack, Java and .NET <br>
+    💡 Currently working on learning Spring Boot and Next JS <br>
     📫 Contact Information: <b>ruchira.bogahawatta@gmail.com </b><br>
     🌐 Visit My portfolio site : https://ruchira-bogahawatta.github.io/portfolio/<br>
 </p>
