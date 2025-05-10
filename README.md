@@ -4,10 +4,11 @@
 </h1>
 <br>
 <p align="left">
-    💻 I have a strong passion for Full Stack Development. <br>
-    🎓 Following BSc(Hons) in Information Systems at UCSC.<br>
-    💡 Currently working on learning Spring Boot and Next JS <br>
-    📫 Contact Information: <b>ruchira.bogahawatta@gmail.com </b><br>
+    💡 On the lookout for some cool opportunities to kickstart my career.<br>
+    💻 Mostly into full stack dev, working with Java and JavaScript. <br>
+    🎓 Finishing up my BSc (Hons) in Information Systems at UCSC (April 2025).<br>
+    🛠️ Also doing a bit of freelancing on the side to sharpen my skills.<br>
+    📫 Reach out anytime : <b>ruchira.bogahawatta@gmail.com </b> <br>
     🌐 Visit My portfolio site : https://ruchira-bogahawatta.github.io/portfolio/<br>
 </p>
 <hr>
