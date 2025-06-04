@@ -4,8 +4,7 @@
 </h1>
 <br>
 <p align="left">
-    💡 On the lookout for some cool opportunities to kickstart my career.<br>
-    💻 Mostly into full stack dev, working with Java and JavaScript. <br>
+    💻 Currently working as a Software Engineer. <br>
     🎓 Finishing up my BSc (Hons) in Information Systems at UCSC (April 2025).<br>
     🛠️ Also doing a bit of freelancing on the side to sharpen my skills.<br>
     📫 Reach out anytime : <b>ruchira.bogahawatta@gmail.com </b> <br>
